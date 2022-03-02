@@ -1,3 +1,5 @@
+package homework1;
+
 public class course {
     public static void main(String[] args) {
         //массив препятствий
